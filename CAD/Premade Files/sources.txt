@@ -1,0 +1,6 @@
+https://grabcad.com/library/redragon-zt02-keyboard-switch-1
+https://grabcad.com/library/pin-header-male-2-54mm-different-pin-numbers-1
+https://grabcad.com/library/cherry-mx-keycaps-1
+https://grabcad.com/library/cherry-mx-stabilizers-2
+https://grabcad.com/library/oled-0-91-128x32-1
+https://github.com/adafruit/Adafruit_CAD_Parts/blob/main/5302%20KB2040/5302%20KB2040.step

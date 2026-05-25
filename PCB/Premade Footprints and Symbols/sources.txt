@@ -1,0 +1,3 @@
+https://github.com/ebastler/marbastlib/blob/main/footprints/marbastlib-mx.pretty/STAB_MX_6.25u.kicad_mod
+https://github.com/drewgates/kb2040-kicad/blob/master/kb2040.kicad_sym
+https://github.com/sszczep/kicad-libraries/blob/master/footprints/CherryMX.pretty/CherryMX_6.25u.kicad_mod
