@@ -1,5 +1,7 @@
 # custom-keyboard
-custom keyboard using kb2040 board
+This is a custom keyboard using kb2040 board. 
+
+I am making this because I prefer using a keyboard to work at home rather than the one built in to my computer. The only keyboard I have is an old, somewhat broken membrane keyboard so I figured I'd try to make a custom mechanical one. I previously made a custom macropad, so I thought this would be a cool next step.
 
 **Schematic**
 <img width="1881" height="1346" alt="image" src="https://github.com/user-attachments/assets/10bfc824-0ac6-4c30-a5c0-970818b297f5" />
