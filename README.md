@@ -9,6 +9,8 @@ I am making this because I prefer using a keyboard to work at home rather than t
 <img width="1700" height="582" alt="image" src="https://github.com/user-attachments/assets/731a25e4-05ee-47a3-a628-1966377b26c0" />
 **Case CAD**
 <img width="1741" height="1061" alt="image" src="https://github.com/user-attachments/assets/cd74bd13-0546-4c18-9409-c4d3add19b32" />
+**Key Assignments**
+<img width="960" height="720" alt="Key Assignments" src="https://github.com/user-attachments/assets/8ed9c5d1-9904-4a25-8e0e-a2526c3d9046" />
 **BOM**
 |Part|Source|Quantity|Cost Each|Total Cost|Link|
 |---|---|---|---|---|---|
