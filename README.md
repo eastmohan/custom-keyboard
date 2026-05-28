@@ -3,6 +3,23 @@ This is a custom keyboard using KB2040 board.
 
 I am making this because I prefer using a keyboard to work at home rather than the one built in to my computer. The only keyboard I have is an old, somewhat broken membrane keyboard so I figured I'd try to make a custom mechanical one. I previously made a custom macropad, so I thought this would be a cool next step.
 
+NOTE: You may have noticed that there is no .f3d file in the CAD folder. Instead, there is a .f3z file. They are the same except Fusion360, which I used for the CAD, only gives the option to save as .f3z (not .f3d) when you reference other components. Those referenced components are also included in the CAD folder in the **Premade Files** folder.
+
+**To build this project:**
+- Upload gerber and drill files to PCB manufacturer website
+- Order PCB and components in the BOM
+- Place the switches in the PCB
+- **Switches should be placed through the keyboard lid 3D print to the PCB**
+- Solder switches
+- Place the diodes in the PCB in the correct orientation
+- Solder the diodes
+- Place the microcontroller
+- Solder the microcontroller pin headers to the PCB and to the microcontroller
+- Place button and solder
+- 3D print case and insert PCB
+- Plug microcontroller into computer in boot mode, upload firmware
+- Enjoy your new keyboard!
+
 **Schematic**
 <img width="1881" height="1346" alt="image" src="https://github.com/user-attachments/assets/10bfc824-0ac6-4c30-a5c0-970818b297f5" />
 **PCB**
