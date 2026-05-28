@@ -1,5 +1,6 @@
 # custom-keyboard
-This is a custom keyboard using KB2040 board. 
+**What?** </br>
+This is a custom keyboard using KB2040 board. It has 63 keys and a 0.91" OLED. See below for the key assignments. 
 
 **Why?** </br>
 I am making this because I prefer using a keyboard to work at home rather than the one built in to my computer. The only keyboard I have is an old, somewhat broken membrane keyboard so I figured I'd try to make a custom mechanical one. I previously made a custom macropad, so I thought this would be a cool next step.
